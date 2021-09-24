@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        
+        <style>
+          .card-body
+          {
+            text-align: center;
+          }
+          .card
+          {
+            background: aquamarine;
+          }
+          .page-footer
+          {
+            align-items: center;
+            text-align: center;
+            background: black;
+          }
+          
+          .img-fluid
+          {
+            text-align: center;
+            height:40px;
+            
+            
+          }
+
+        </style>
+      </head>
+    </head>
+    <br><br>
+    <h1><center>WHAT OUR CUSTOMERS SAY</center></h1>
+    <br><br>
+    <body>
+        <div class="card-deck">
+        <div class="card" style="width: 15rem;">
+            
+          <h1><img src="https://www.pngall.com/wp-content/uploads/4/Quotation-Symbol-PNG.png" height=60px></h1>
+            <div class="card-body">
+              
+              <h2 class="card-text">-----------------------------------------------------------------------------------"</h2>
+              <img src="https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png" class="rounded-circle" alt="" width="100" height="100">
+              <h4>NAME</h4>
+              <h4>POSITION</h4>
+            </div>
+          </div>
+        
+        <div class="card" style="width: 15rem;">
+          
+          <h1><img src="https://www.pngall.com/wp-content/uploads/4/Quotation-Symbol-PNG.png" height=60px></h1>
+          <div class="card-body">
+            
+            <h2 class="card-text">-----------------------------------------------------------------------------------"</h2>
+            <img src="https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png" class="rounded-circle" alt="" width="100" height="100">
+            <h4>NAME</h4>
+            <h4>POSITION</h4>
+          </div>
+        </div>
+      
+      <div class="card" style="width: 15rem;">
+        
+        <h1><img src="https://www.pngall.com/wp-content/uploads/4/Quotation-Symbol-PNG.png" height=60px></h1>
+        <div class="card-body">
+          
+          <h2 class="card-text">-----------------------------------------------------------------------------------"</h2>
+          <img src="https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png" class="rounded-circle" alt="" width="100" height="100">
+          <h4>NAME</h4>
+          <h4>POSITION</h4>
+        </div>
+      
+    </div>
+    <div class="card" style="width: 15rem;">
+      
+      <h1><img src="https://www.pngall.com/wp-content/uploads/4/Quotation-Symbol-PNG.png" height=60px></h1>
+      <div class="card-body">
+        
+        <h2 class="card-text">-----------------------------------------------------------------------------------"</h2>
+        <img src="https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png" class="rounded-circle" alt="" width="100" height="100">
+        <h4>NAME</h4>
+        <h4>POSITION</h4>
+      </div>
+    
+  </div>
+  </div>
+  <br><br>
+  <div class="contact" >
+  <div class="container-fluid bg-grey">
+    <h2 class="text-center">CONTACT</h2>
+    <br>
+    <br>
+
+    <div class="row">
+      <div class="col-sm-7">
+        <div class="row">
+          <div class="col-sm-6 form-group">
+            <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+          </div>
+          <div class="col-sm-6 form-group">
+            <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+          </div>
+        </div>
+        <textarea class="form-control" id="comments" name="comments" placeholder="Message/Enquiry" rows="5"></textarea><br>
+        <div class="row">
+          <div class="col-sm-12 form-group">
+            <button class="btn btn-primary pull-right" background-color="blue" type="submit">Submit</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-5">
+        <p>If you have any queries fill this form ,we will get back to you in 24 hours</p>
+        <p><span class="x"><img src="https://static.thenounproject.com/png/11205-200.png" height=30px></span> Hyderabad</p>
+        
+        <p><span class="y"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/envelope-1462962-1238502.png" height=30px></span> srushtimediahyd@gmail.com</p>
+      </div>
+      
+    </div>
+  </div>
+   
+  </div>
+  <br><br>
+
+  <footer class="page-footer font-small mdb-color lighten-3 pt-4">
+    <div class="container">
+  <div class="row justify-content-center">
+  <div class="col-lg-2 col-md-6 mb-4">
+          <div class="view overlay z-depth-1-half">
+            <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" height=30px class="img-fluid"
+              alt=""></a>
+          
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-6 mb-4">
+          <div class="view overlay z-depth-1-half">
+            <a href="#"><img src="https://ak.picdn.net/shutterstock/videos/1029066842/thumb/1.jpg?ip=x480" height=50px class="img-fluid"
+              alt=""></a>
+          </div>
+  
+        </div>
+        <div class="col-lg-2 col-md-6 mb-4">
+          <div class="view overlay z-depth-1-half">
+            <a href="#"><img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" class="img-fluid"
+              alt=""></a>
+            
+          </div>
+  
+        </div>
+      </div>
+    </div>
+    <br><br><br>
+    <div class="footer-copyright text-center py-3">© 2021 Copyright:
+      <a > Srushti Media</a>
+    </div>
+    <br><br>
+  
+  </footer>
+  
+    
+    </body>
+    </html>
