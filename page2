@@ -6,6 +6,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         
         <style>
+          
           .card-body
           {
             text-align: center;
@@ -20,7 +21,7 @@
             text-align: center;
             background: black;
           }
-          
+         
           .img-fluid
           {
             text-align: center;
@@ -28,10 +29,11 @@
             
             
           }
+          
 
         </style>
       </head>
-    </head>
+    
     <br><br>
     <h1><center>WHAT OUR CUSTOMERS SAY</center></h1>
     <br><br>
@@ -93,7 +95,7 @@
     <br>
     <br>
 
-    <div class="row">
+  <div class="row">
       <div class="col-sm-7">
         <div class="row">
           <div class="col-sm-6 form-group">
@@ -102,7 +104,12 @@
           <div class="col-sm-6 form-group">
             <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
           </div>
+          <div class="col-sm-12 form-group">
+            <input class="form-control" id="subject" name="subject" placeholder="Subject" type="subject" required>
+          </div>
+          
         </div>
+        
         <textarea class="form-control" id="comments" name="comments" placeholder="Message/Enquiry" rows="5"></textarea><br>
         <div class="row">
           <div class="col-sm-12 form-group">
@@ -125,7 +132,9 @@
 
   <footer class="page-footer font-small mdb-color lighten-3 pt-4">
     <div class="container">
+      
   <div class="row justify-content-center">
+  
   <div class="col-lg-2 col-md-6 mb-4">
           <div class="view overlay z-depth-1-half">
             <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" height=30px class="img-fluid"
@@ -149,7 +158,27 @@
   
         </div>
       </div>
+      <div class="row">
+        
+        <div class="col">
+        <div id="address">
+          
+          <p><address>Visit us at:<br> 9, Marine Drive, F Road,<br> Opp Hindi Vidya Bhuvan School,<br> New Marine Lines<br>Mumbai<br>Maharashtra<br>400002</address> </p>
+        </div>
+      </div>
+      <div class ="col"></div>
+      <div class ="col"></div>
+      <div class ="col"></div>
+      
+      
+    
+    <div class="logo">
+      <div class="col">
+      <img src="Screenshot (528).png">
     </div>
+  </div>
+</div>
+    
     <br><br><br>
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
       <a > Srushti Media</a>
@@ -157,6 +186,7 @@
     <br><br>
   
   </footer>
+</div>
   
     
     </body>
